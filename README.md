@@ -36,6 +36,3 @@ I am continuously practicing LeetCode problems to improve my understanding of DS
 ---
 
 ⭐ This repository will be updated regularly as I solve more problems.
-
-
-https://leetcode.com/u/srinivasB_24/
